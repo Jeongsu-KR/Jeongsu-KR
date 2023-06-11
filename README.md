@@ -6,7 +6,6 @@ Studying **Data Handling, AI, TMS, SCM, GIS, Patent Analysis**📚
 
 <h2> My Tech Stack </h2>
 
-___
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-sqaure&logo=Python&logoColor=white)
 ![RStudio](https://img.shields.io/badge/Rstudio-75AADB?style=flat-sqaure&logo=RStudio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white)
