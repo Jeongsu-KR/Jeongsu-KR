@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1> Jeongsu An</h1>
+Current Student in *Korea Univ, Industrial Management and Engineering*🏫
 
-<!--
-**Jeongsu-KR/Jeongsu-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying **Data Handling, AI, TMS, SCM, GIS, Patent Analysis**📚
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> My Tech Stack </h2>
+
+___
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-sqaure&logo=Python&logoColor=white)
+![RStudio](https://img.shields.io/badge/Rstudio-75AADB?style=flat-sqaure&logo=RStudio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-sqaure&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-sqaure&logo=CSS3&logoColor=white)
+
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-sqaure&logo=Tableau&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-007?style=flat-square&logo=SAS&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-DA1F26?style=flat-square&logo=SPSS&logoColor=white)
+
+
