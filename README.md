@@ -1,7 +1,8 @@
 <h1> Jeongsu An</h1>
-Current Student in *Korea Univ, Industrial Management and Engineering*🏫
 
-Studying **Data Handling, AI, TMS, SCM, GIS, Patent Analysis**📚
+* Current Student in *Korea Univ, Industrial Management and Engineering*🏫
+
+* Studying **Data Handling, AI, TMS, SCM, GIS, Patent Analysis**📚
 
 
 <h2> My Tech Stack </h2>
